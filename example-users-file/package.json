@@ -1,0 +1,17 @@
+{
+  "name": "UsersFile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cucumber": "./node_modules/.bin/cucumber-js features/ -r steps/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+    "co-fs": "^1.2.0",
+    "cucumber": "^4.0.0",
+    "npm": "^6.0.0"
+  }
+}
